@@ -1,0 +1,18 @@
+{
+  "item.ultimatemod.auto_torch_placer": "Auto Torch Placer",
+  "item.ultimatemod.portable_crafting_table": "Portable Crafting Table",
+  "item.ultimatemod.instant_smelting_stick": "Instant Smelting Stick",
+  "item.ultimatemod.tree_cutter_axe": "Tree Cutter Axe",
+  "item.ultimatemod.backpack": "Backpack",
+  "item.ultimatemod.coin": "Gold Coin",
+  "itemGroup.ultimatemod.ultimate_group": "Ultimate Mod",
+  "container.ultimatemod.backpack": "Backpack",
+  "ultimatemod.hud.temperature": "Temp",
+  "ultimatemod.hud.thirst": "Thirst",
+  "ultimatemod.hud.fatigue": "Energy",
+  "ultimatemod.tooltip.auto_torch_placer": "Automatically places torches when light is low. Hold in hand.",
+  "ultimatemod.tooltip.portable_crafting_table": "Right-click to open a crafting grid anywhere.",
+  "ultimatemod.tooltip.instant_smelting_stick": "Right-click to instantly smelt all smeltable items in your inventory.",
+  "ultimatemod.tooltip.tree_cutter_axe": "Chops entire trees in one swing!",
+  "ultimatemod.tooltip.backpack": "Right-click to access portable storage (27 slots)."
+}

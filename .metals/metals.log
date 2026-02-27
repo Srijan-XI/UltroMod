@@ -1,0 +1,367 @@
+2026.02.27 16:21:17 INFO  Started: Metals version 1.6.5 in folders 'P:\CODE-XI\MincraftMods\Mod1' for client Visual Studio Code 1.109.5.
+2026.02.27 16:21:17 INFO  Memory monitor started
+2026.02.27 16:21:18 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.27 16:21:18 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\UltimateMod.java. Using fallback presentation compiler.
+2026.02.27 16:21:19 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\UltimateMod.java. Using fallback presentation compiler.
+2026.02.27 16:21:24 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java. Using fallback presentation compiler.
+2026.02.27 16:21:24 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java
+2026.02.27 16:21:28 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\UltimateMod.java
+2026.02.27 16:21:28 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java
+2026.02.27 16:21:30 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java
+2026.02.27 16:21:30 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/ModScreenHandlers.java. Output:
+
+2026.02.27 16:21:30 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java. Using fallback presentation compiler.
+2026.02.27 16:21:30 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java
+2026.02.27 16:21:33 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java. Using fallback presentation compiler.
+2026.02.27 16:21:33 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java
+2026.02.27 16:21:33 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java. Using fallback presentation compiler.
+2026.02.27 16:21:36 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java. Using fallback presentation compiler.
+2026.02.27 16:21:36 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java
+2026.02.27 16:21:36 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java. Using fallback presentation compiler.
+2026.02.27 16:21:36 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java
+2026.02.27 16:21:36 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java. Using fallback presentation compiler.
+2026.02.27 16:21:36 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/ModPackets.java. Output:
+
+2026.02.27 16:21:36 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java. Using fallback presentation compiler.
+2026.02.27 16:21:36 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java. Using fallback presentation compiler.
+2026.02.27 16:21:36 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java. Using fallback presentation compiler.
+2026.02.27 16:21:36 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java
+Feb 27, 2026 4:21:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2026.02.27 16:21:39 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java. Using fallback presentation compiler.
+2026.02.27 16:21:39 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java. Using fallback presentation compiler.
+2026.02.27 16:21:39 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java. Using fallback presentation compiler.
+2026.02.27 16:21:39 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java
+2026.02.27 16:21:40 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\UltimateMod.java. Using fallback presentation compiler.
+2026.02.27 16:21:40 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\UltimateMod.java
+2026.02.27 16:21:49 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\UltimateMod.java. Using fallback presentation compiler.
+2026.02.27 16:21:58 INFO  compilation cancelled
+2026.02.27 16:22:02 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java
+2026.02.27 16:22:02 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/items/AutoTorchPlacerItem.java. Output:
+
+2026.02.27 16:22:03 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:03 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java
+2026.02.27 16:22:10 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java
+2026.02.27 16:22:10 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\UltimateMod.java
+2026.02.27 16:22:10 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java
+2026.02.27 16:22:10 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java
+2026.02.27 16:22:10 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java
+2026.02.27 16:22:19 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:19 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java
+2026.02.27 16:22:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:19 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:20 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\PortableCraftingTableItem.java
+2026.02.27 16:22:20 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/items/PortableCraftingTableItem.java. Output:
+
+2026.02.27 16:22:19 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\PortableCraftingTableItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:20 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java
+2026.02.27 16:22:20 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/items/InstantSmeltingStickItem.java. Output:
+
+2026.02.27 16:22:21 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:21 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\PortableCraftingTableItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:20 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\PortableCraftingTableItem.java
+2026.02.27 16:22:21 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:21 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java
+2026.02.27 16:22:21 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:22 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:23 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:23 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:23 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:40 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java
+2026.02.27 16:22:40 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/items/TreeCutterAxeItem.java. Output:
+
+2026.02.27 16:22:40 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:40 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java
+2026.02.27 16:22:40 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/items/BackpackItem.java. Output:
+
+2026.02.27 16:22:40 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:40 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:40 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:41 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:41 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:41 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:41 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:41 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:42 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java
+2026.02.27 16:22:42 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java
+2026.02.27 16:22:41 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:44 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java
+2026.02.27 16:22:44 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:44 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:46 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java
+2026.02.27 16:22:46 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\PortableCraftingTableItem.java
+2026.02.27 16:22:46 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java
+2026.02.27 16:22:46 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java
+2026.02.27 16:22:52 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:22:52 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java
+2026.02.27 16:22:52 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:23:01 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java
+2026.02.27 16:23:01 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/inventory/BackpackInventory.java. Output:
+
+2026.02.27 16:23:02 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:23:02 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:23:02 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:23:02 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:23:02 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:23:02 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java
+2026.02.27 16:23:02 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:23:03 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:23:03 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:23:11 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java
+2026.02.27 16:23:11 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/screen/BackpackScreenHandler.java. Output:
+
+2026.02.27 16:23:11 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:11 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:11 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:12 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java
+2026.02.27 16:23:14 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java
+2026.02.27 16:23:14 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java
+2026.02.27 16:23:42 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:23:42 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/drops/BetterDropsHandler.java. Output:
+
+2026.02.27 16:23:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:44 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:23:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:45 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:23:45 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:24:15 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java
+2026.02.27 16:24:15 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/survival/SurvivalData.java. Output:
+
+2026.02.27 16:24:15 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java. Using fallback presentation compiler.
+2026.02.27 16:24:15 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java
+2026.02.27 16:24:32 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java. Using fallback presentation compiler.
+2026.02.27 16:24:32 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java
+2026.02.27 16:24:32 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java. Using fallback presentation compiler.
+2026.02.27 16:24:32 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java. Using fallback presentation compiler.
+2026.02.27 16:24:32 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:24:32 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java. Using fallback presentation compiler.
+2026.02.27 16:24:34 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java
+2026.02.27 16:24:35 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:24:35 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:24:35 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:24:46 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java
+2026.02.27 16:24:46 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/survival/SurvivalManager.java. Output:
+
+2026.02.27 16:24:47 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:24:47 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:24:47 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:24:47 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:24:47 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:24:47 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java
+2026.02.27 16:24:47 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:24:49 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:24:49 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:25:24 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java
+2026.02.27 16:25:24 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:25:42 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\ClientSurvivalData.java
+2026.02.27 16:25:42 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/client/ClientSurvivalData.java. Output:
+
+2026.02.27 16:25:42 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\ClientSurvivalData.java. Using fallback presentation compiler.
+2026.02.27 16:25:42 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\ClientSurvivalData.java
+2026.02.27 16:25:49 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\network\ClientPacketHandler.java
+2026.02.27 16:25:49 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/client/network/ClientPacketHandler.java. Output:
+
+2026.02.27 16:25:49 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\network\ClientPacketHandler.java. Using fallback presentation compiler.
+2026.02.27 16:25:49 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\network\ClientPacketHandler.java
+2026.02.27 16:26:08 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java
+2026.02.27 16:26:08 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/client/hud/SurvivalHudRenderer.java. Output:
+
+2026.02.27 16:26:09 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:26:09 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+Feb 27, 2026 4:26:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 209
+2026.02.27 16:26:09 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:26:08 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:26:09 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:26:09 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java
+2026.02.27 16:26:09 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:26:10 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:26:10 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:26:20 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java
+2026.02.27 16:26:20 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/client/screen/BackpackScreen.java. Output:
+
+2026.02.27 16:26:21 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java. Using fallback presentation compiler.
+2026.02.27 16:26:21 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java
+2026.02.27 16:26:29 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\UltimateModClient.java
+2026.02.27 16:26:29 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/client/UltimateModClient.java. Output:
+
+2026.02.27 16:26:29 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\UltimateModClient.java. Using fallback presentation compiler.
+2026.02.27 16:26:29 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\UltimateModClient.java
+2026.02.27 16:26:31 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\network\ClientPacketHandler.java
+2026.02.27 16:26:31 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\UltimateModClient.java
+2026.02.27 16:26:31 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\ClientSurvivalData.java
+2026.02.27 16:26:31 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java
+2026.02.27 16:26:31 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java
+2026.02.27 16:26:34 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:26:53 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\mixin\PlayerEntityMixin.java
+2026.02.27 16:26:53 WARN  Running javac-semanticdb failed for file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/mixin/PlayerEntityMixin.java. Output:
+
+2026.02.27 16:26:54 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\mixin\PlayerEntityMixin.java. Using fallback presentation compiler.
+2026.02.27 16:26:54 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\mixin\PlayerEntityMixin.java
+2026.02.27 16:27:02 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java. Using fallback presentation compiler.
+2026.02.27 16:27:02 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java
+2026.02.27 16:27:06 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java
+2026.02.27 16:27:06 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\mixin\PlayerEntityMixin.java
+Feb 27, 2026 4:27:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.27 16:36:37 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java. Using fallback presentation compiler.
+2026.02.27 16:36:37 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java
+2026.02.27 16:36:50 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java. Using fallback presentation compiler.
+2026.02.27 16:36:50 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java
+2026.02.27 16:37:43 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java
+2026.02.27 16:37:45 INFO  skipping build import with status 'Dismissed'
+2026.02.27 16:40:10 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java. Using fallback presentation compiler.
+2026.02.27 16:40:10 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:40:10 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:40:10 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java
+2026.02.27 16:40:19 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:40:20 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java
+2026.02.27 16:45:24 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:45:24 INFO  Created report: Optional[file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/drops/BetterDropsHandler.java]
+2026.02.27 16:45:24 INFO  empty definition using pc, found symbol in pc: net/fabricmc/fabric/api/loot/v2/LootTableEvents# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_16-45-24-440.md")
+2026.02.27 16:45:46 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:45:46 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:46:15 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java. Using fallback presentation compiler.
+2026.02.27 16:46:15 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java
+2026.02.27 16:46:18 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java
+2026.02.27 16:46:18 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:46:50 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java. Using fallback presentation compiler.
+2026.02.27 16:46:50 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java
+2026.02.27 16:47:09 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java
+2026.02.27 16:47:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java. Using fallback presentation compiler.
+2026.02.27 16:47:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\UltimateModClient.java. Using fallback presentation compiler.
+2026.02.27 16:47:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:47:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java. Using fallback presentation compiler.
+2026.02.27 16:47:43 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java
+2026.02.27 16:47:43 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java
+2026.02.27 16:47:43 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java
+2026.02.27 16:47:43 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\UltimateModClient.java
+2026.02.27 16:49:25 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java
+2026.02.27 16:49:25 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java
+2026.02.27 16:49:25 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java
+2026.02.27 16:49:25 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\UltimateModClient.java
+2026.02.27 16:49:53 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:49:53 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:50:23 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 16:50:37 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:50:37 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java
+2026.02.27 16:52:37 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:52:37 INFO  Created report: Optional[file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/drops/BetterDropsHandler.java]
+2026.02.27 16:52:37 INFO  empty definition using pc, found symbol in pc: net/fabricmc/fabric/api/event/player/PlayerBlockBreakEvents# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_16-52-37-684.md")
+2026.02.27 16:52:43 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java. Using fallback presentation compiler.
+2026.02.27 16:52:43 INFO  Created report: Optional[file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/screen/BackpackScreenHandler.java]
+2026.02.27 16:52:43 INFO  empty definition using pc, found symbol in pc: net/minecraft/screen/ScreenHandlerType# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_16-52-43-782.md")
+2026.02.27 16:53:13 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\UltimateMod.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModItems.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModScreenHandlers.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\ModPackets.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\AutoTorchPlacerItem.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\PortableCraftingTableItem.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\InstantSmeltingStickItem.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\TreeCutterAxeItem.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\items\BackpackItem.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\inventory\BackpackInventory.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\screen\BackpackScreenHandler.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalData.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\survival\SurvivalManager.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\ClientSurvivalData.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\network\ClientPacketHandler.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\hud\SurvivalHudRenderer.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\screen\BackpackScreen.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\client\UltimateModClient.java. Using fallback presentation compiler.
+2026.02.27 16:53:20 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\mixin\PlayerEntityMixin.java. Using fallback presentation compiler.
+Feb 27, 2026 5:02:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.27 17:09:09 INFO  Shutting down server
+2026.02.27 17:09:09 INFO  Memory monitor stopped
+2026.02.27 17:09:09 INFO  shutting down Metals
+2026.02.27 17:09:09 INFO  Exiting server
+2026.02.27 19:00:52 INFO  Started: Metals version 1.6.5 in folders 'P:\CODE-XI\MincraftMods\Mod1' for client Visual Studio Code 1.109.5.
+2026.02.27 19:00:52 INFO  Memory monitor started
+2026.02.27 19:00:52 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.27 19:00:53 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:54 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:54 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:54 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:54 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:54 INFO  empty definition using pc, found symbol in pc: net/minecraft/util/Identifier# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_19-00-54-805.md")
+2026.02.27 19:00:54 INFO  Created report: Optional[file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/drops/BetterDropsHandler.java]
+2026.02.27 19:00:54 INFO  empty definition using pc, found symbol in pc: net/minecraft/util/Identifier# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_19-00-54-805.md")
+2026.02.27 19:00:54 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:54 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:54 INFO  empty definition using pc, found symbol in pc: net/minecraft/util/Identifier# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_19-00-54-805.md")
+2026.02.27 19:00:54 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:54 INFO  Created report: Optional[file:///P:/CODE-XI/MincraftMods/Mod1/src/main/java/com/example/ultimatemod/drops/BetterDropsHandler.java]
+2026.02.27 19:00:54 INFO  empty definition using pc, found symbol in pc: java/util/Map# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_19-00-55-083.md")
+2026.02.27 19:00:54 INFO  empty definition using pc, found symbol in pc: java/util/Map# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_19-00-55-083.md")
+2026.02.27 19:00:54 INFO  empty definition using pc, found symbol in pc: java/util/Map# (full report at: "P:\CODE-XI\MincraftMods\Mod1\.metals\.reports\metals-full\2026-02-27\r_empty-definition_19-00-55-083.md")
+2026.02.27 19:00:56 INFO  running 'P:\CODE-XI\MincraftMods\Mod1\gradlew.bat --stacktrace --console=plain --init-script C:\Users\srija\AppData\Local\Temp\metals11679328745370298972\init-script.gradle bloopInstall'
+2026.02.27 19:00:56 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>if "Windows_NT" == "Windows_NT" setlocal
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>set DIRNAME=P:\CODE-XI\MincraftMods\Mod1\ 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>if "P:\CODE-XI\MincraftMods\Mod1\" == "" set DIRNAME=. 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>set APP_BASE_NAME=gradlew 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>set APP_HOME=P:\CODE-XI\MincraftMods\Mod1\ 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>for %i in ("P:\CODE-XI\MincraftMods\Mod1\") do set APP_HOME=%~fi 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>set APP_HOME=P:\CODE-XI\MincraftMods\Mod1\ 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>set DEFAULT_JVM_OPTS="-Xmx64m" "-Xms64m" 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>if defined JAVA_HOME goto findJavaFromJavaHome 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>set JAVA_HOME=C:\Program Files\Java\jdk-25.0.2 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>set JAVA_EXE=C:\Program Files\Java\jdk-25.0.2/bin/java.exe 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>if exist "C:\Program Files\Java\jdk-25.0.2/bin/java.exe" goto execute 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>set CLASSPATH=P:\CODE-XI\MincraftMods\Mod1\\gradle\wrapper\gradle-wrapper.jar 
+2026.02.27 19:00:56 INFO  
+2026.02.27 19:00:56 INFO  P:\CODE-XI\MincraftMods\Mod1>"C:\Program Files\Java\jdk-25.0.2/bin/java.exe" "-Xmx64m" "-Xms64m"   "-Dorg.gradle.appname=gradlew" -classpath "P:\CODE-XI\MincraftMods\Mod1\\gradle\wrapper\gradle-wrapper.jar" org.gradle.wrapper.GradleWrapperMain --stacktrace --console=plain --init-script C:\Users\srija\AppData\Local\Temp\metals11679328745370298972\init-script.gradle bloopInstall 
+2026.02.27 19:00:57 ERROR WARNING: A restricted method in java.lang.System has been called
+2026.02.27 19:00:57 ERROR WARNING: java.lang.System::load has been called by net.rubygrapefruit.platform.internal.NativeLibraryLoader in an unnamed module (file:/C:/Users/srija/.gradle/wrapper/dists/gradle-8.11-bin/c4te04g51qsyw1bxcb929u7br/gradle-8.11/lib/native-platform-0.22-milestone-26.jar)
+2026.02.27 19:00:57 ERROR WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+2026.02.27 19:00:57 ERROR WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+2026.02.27 19:00:57 ERROR 
+2026.02.27 19:00:56 INFO  Starting a Gradle Daemon, 1 busy and 2 incompatible Daemons could not be reused, use --status for details
+2026.02.27 19:01:04 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:02:45 INFO  user cancelled gradle bloopInstall
+2026.02.27 19:02:45 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 19:03:01 WARN  no build target for: P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java
+2026.02.27 19:03:01 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:03:01 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:03:02 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:03:01 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:03:03 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:03:03 INFO  no build target found for P:\CODE-XI\MincraftMods\Mod1\src\main\java\com\example\ultimatemod\drops\BetterDropsHandler.java. Using fallback presentation compiler.
+2026.02.27 19:03:17 INFO  
+2026.02.27 19:03:18 ERROR 
+2026.02.27 19:03:18 INFO  time: ran 'gradle bloopInstall' in 2m21s
+2026.02.27 19:04:07 INFO  Shutting down server
+2026.02.27 19:04:07 INFO  Memory monitor stopped
+2026.02.27 19:04:07 INFO  shutting down Metals
+2026.02.27 19:04:07 INFO  Exiting server
+2026.02.27 19:04:23 INFO  Started: Metals version 1.6.5 in folders 'P:\CODE-XI\MincraftMods\Mod1' for client Visual Studio Code 1.109.5.
+2026.02.27 19:04:23 INFO  Memory monitor started
+2026.02.27 19:04:24 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.27 19:04:24 INFO  skipping build import with status 'Cancelled'
+2026.02.27 19:11:30 INFO  Shutting down server
+2026.02.27 19:11:30 INFO  Memory monitor stopped
+2026.02.27 19:11:30 INFO  shutting down Metals
+2026.02.27 19:11:30 INFO  Exiting server
