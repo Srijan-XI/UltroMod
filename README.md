@@ -1,4 +1,4 @@
-# ⚔️ Ultimate Survival Mod-Ultro
+# ⚔️ Ultimate Survival Mod - [Ultro]
 
 > **A Fabric 1.20.1 all-in-one survival overhaul.**  
 > Utility items, smarter mob drops, a thirst/fatigue/temperature system, and a portable backpack — all in one mod.
