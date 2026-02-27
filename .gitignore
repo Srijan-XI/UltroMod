@@ -3,6 +3,9 @@
 build/
 bin/
 
+#metals
+.metals/
+.continue/
 # IDE
 .idea/
 *.iml
