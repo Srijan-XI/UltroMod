@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "ultimatemod",
+  "version": "${version}",
+  "name": "Ultimate Survival Mod",
+  "description": "Combines Utility Items, Better Drops, Survival Expansion, and Backpack into one mod.",
+  "authors": ["Player"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/ultimatemod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.ultimatemod.UltimateMod"],
+    "client": ["com.example.ultimatemod.client.UltimateModClient"]
+  },
+  "mixins": ["ultimatemod.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}

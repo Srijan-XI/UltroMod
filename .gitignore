@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+bin/
+
+#metals
+.metals/
+.continue/
+# IDE
+.idea/
+*.iml
+*.iws
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+idea.txt
